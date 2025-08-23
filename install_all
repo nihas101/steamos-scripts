@@ -6,6 +6,5 @@
 . scripts/install_neovim
 . scripts/install_xclip
 . scripts/install_podman-compose
+. scripts/install_man-pages
 
-. scipts/install_virtualenv
-. scipts/install_tesseract_jpn

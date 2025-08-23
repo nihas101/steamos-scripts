@@ -1,0 +1,3 @@
+sudo steamos-readonly disable
+sudo pacman -S man-pages
+sudo steamos-readonly enable
