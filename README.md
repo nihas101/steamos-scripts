@@ -92,9 +92,9 @@ See: [Game2Text](https://github.com/mathewthe2/Game2Text)
 Install the prerequisites
 ```bash
 # This will install tesseract and data for horizontal and vertical japanese
-./scripts/install_tesseract_jpn
+./scripts/game2text/install_tesseract_jpn
 # This will install virtualenv which we will need for building Game2text from source
-./scipts/install_virtualenv
+./scipts/game2text/install_virtualenv
 # This will install the prerequisites to build Game2text
 sudo steamos-readonly disable
 sudo pacman base-devel glibc linux-api-headers zlib cmake python3 gcc nodejs npm libffi openssl rust tk tcl
@@ -111,10 +111,10 @@ source venv/bin/activate
 pip install virtualenv
 ```
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > Before continuing
 > 1. Replace `==` with `>=` for the versions in `requirements.py`
-> 2. In `config.ini` replace `browser = default` with `browser = chromium`. See: https://game2text.com/faq/switch-browser/ 
+> 2. In `config.ini` replace `browser = default` with `browser = chromium`. See: https://game2text.com/faq/switch-browser/
 
 ```bash
 pip install -r requirements.txt
