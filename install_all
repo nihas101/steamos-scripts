@@ -7,4 +7,5 @@
 . scripts/install_xclip
 . scripts/install_podman-compose
 . scripts/install_man-pages
+. scripts/install_luarocks
 

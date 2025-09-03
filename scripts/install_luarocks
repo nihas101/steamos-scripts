@@ -1,0 +1,10 @@
+#!/bin/bash
+
+function install_luarocks {
+    echo "Installing luarocks..."
+    sudo pacman -S luarocks
+}
+
+sudo steamos-readonly disable
+install_luarocks
+sudo steamos-readonly enable
