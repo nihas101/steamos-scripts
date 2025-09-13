@@ -1,6 +1,8 @@
 #!/bin/bash
 
 function install_luarocks {
+    echo "Installing lua..."
+    sudo pacman -S lua
     echo "Installing luarocks..."
     sudo pacman -S luarocks
 }

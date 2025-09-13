@@ -2,8 +2,6 @@
 
 . scripts/initialize_pacman
 
-. scripts/install_lein
-. scripts/install_neovim
 . scripts/install_xclip
 . scripts/install_podman-compose
 . scripts/install_man-pages
