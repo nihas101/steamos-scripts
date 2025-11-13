@@ -1,6 +1,6 @@
-# Steamdeck Scripts
+# SteamOS Scripts
 
-- [Steamdeck Scripts](#steamdeck-scripts)
+- [SteamOS Scripts](#steamos-scripts)
   - [General Tools \& Misc](#general-tools--misc)
     - [./scripts/install\_xclip](#scriptsinstall_xclip)
     - [Installing 7zz](#installing-7zz)
@@ -11,7 +11,7 @@
       - [Installing YomiNinja](#installing-yomininja)
       - [Installing Game2text](#installing-game2text)
         - [Running the Windows Build Via Bottles](#running-the-windows-build-via-bottles)
-        - [Building Game2text From Source on the Steamdeck](#building-game2text-from-source-on-the-steamdeck)
+        - [Building Game2text From Source on SteamOS](#building-game2text-from-source-on-steamos)
     - [Installing MPV and mpvacious](#installing-mpv-and-mpvacious)
     - [Japanese Input](#japanese-input)
     - [Anki](#anki)
@@ -85,7 +85,7 @@ Download the latest YomiNinja [AppImage](https://github.com/matt-m-o/YomiNinja/r
 4. Setup a bottle optimized for gaming
 5. Run Game2text inside the bottle you just created
 
-##### Building Game2text From Source on the Steamdeck
+##### Building Game2text From Source on SteamOS
 
 See: [Game2Text](https://github.com/mathewthe2/Game2Text)
 
