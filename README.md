@@ -1,3 +1,5 @@
+Moved to: [codeberg.org](https://codeberg.org/nihas101/steamos-scripts)
+
 # SteamOS Scripts
 
 - [SteamOS Scripts](#steamos-scripts)
